@@ -1,0 +1,3 @@
+Identifiant;Titre;Description;Prix;Devise;Disponibilité;Marque;MPN;Image;Lien
+F-1;Bol en érable;Bol tourné à la main.;1 299,99 $;CAD;En stock;Atelier Exemple;BL-1;https://shop.example.ca/i/f1.jpg;https://shop.example.ca/fr/f-1
+F-2;Cuillère en frêne;Cuillère sculptée.;12,50;CAD;Rupture de stock;Atelier Exemple;CU-2;https://shop.example.ca/i/f2.jpg;https://shop.example.ca/fr/f-2

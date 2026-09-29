@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+  <channel>
+    <title>Cedar &amp; Pine Woodshop</title>
+    <link>https://shop.example.ca/</link>
+    <description>Handmade hardwood kitchenware and home goods</description>
+    <language>fr-CA</language>
+    <item>
+      <g:id>WS-1001</g:id>
+      <g:title>Planche à découper en érable, 40 cm</g:title>
+      <g:description>Planche en érable dur finie à la main, avec rigole. Scellée à l'huile minérale alimentaire et à la cire d'abeille.</g:description>
+      <g:link>https://shop.example.ca/fr/maple-cutting-board</g:link>
+      <g:image_link>https://shop.example.ca/img/ws-1001.jpg</g:image_link>
+      <g:additional_image_link>https://shop.example.ca/img/ws-1001-b.jpg</g:additional_image_link>
+      <g:additional_image_link>https://shop.example.ca/img/ws-1001-c.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>48.00 CAD</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Cedar &amp; Pine Woodshop</g:brand>
+      <g:gtin>2001000000012</g:gtin>
+      <g:mpn>CP-CB-40</g:mpn>
+      <g:google_product_category>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Kitchen Tools &amp; Utensils &gt; Cutting Boards</g:google_product_category>
+      <g:product_type>Kitchen &gt; Cutting Boards</g:product_type>
+      <g:shipping_weight>1.8 kg</g:shipping_weight>
+      <g:shipping>
+        <g:country>CA</g:country>
+        <g:price>12.00 CAD</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>WS-1002</g:id>
+      <g:title>Plateau de service en noyer</g:title>
+      <g:description>Plateau en noyer noir avec poignées fraisées. Chaque pièce est une seule planche massive; le grain est unique.</g:description>
+      <g:link>https://shop.example.ca/fr/walnut-serving-tray</g:link>
+      <g:image_link>https://shop.example.ca/img/ws-1002.jpg</g:image_link>
+      <g:additional_image_link>https://shop.example.ca/img/ws-1002-b.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>64.00 CAD</g:price>
+      <g:sale_price>54.00 CAD</g:sale_price>
+      <g:sale_price_effective_date>2026-09-01T00:00-05:00/2026-10-15T23:59-05:00</g:sale_price_effective_date>
+      <g:condition>new</g:condition>
+      <g:brand>Cedar &amp; Pine Woodshop</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Kitchen &gt; Serving</g:product_type>
+      <g:shipping_weight>2.2 kg</g:shipping_weight>
+      <g:shipping>
+        <g:country>CA</g:country>
+        <g:price>12.00 CAD</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>WS-1003</g:id>
+      <g:title>Nichoir en cèdre</g:title>
+      <g:description>Nichoir pour mésanges en cèdre résistant à la pourriture, toit articulé pour le nettoyage annuel.</g:description>
+      <g:link>https://shop.example.ca/fr/cedar-birdhouse</g:link>
+      <g:image_link>https://shop.example.ca/img/ws-1003.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>34.50 CAD</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Cedar &amp; Pine Woodshop</g:brand>
+      <g:gtin>2001000000029</g:gtin>
+      <g:mpn>CP-BH-01</g:mpn>
+      <g:product_type>Garden &gt; Birdhouses</g:product_type>
+      <g:shipping_weight>900 g</g:shipping_weight>
+      <g:shipping>
+        <g:country>CA</g:country>
+        <g:price>12.00 CAD</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>WS-1005</g:id>
+      <g:title>Escabeau en pin</g:title>
+      <g:description>Escabeau robuste à deux marches, conçu pour 150 kg. Fini au vernis à l'eau incolore.</g:description>
+      <g:link>https://shop.example.ca/fr/pine-step-stool</g:link>
+      <g:image_link>https://shop.example.ca/img/ws-1005.jpg</g:image_link>
+      <g:availability>preorder</g:availability>
+      <g:price>79.00 CAD</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Cedar &amp; Pine Woodshop</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Home &gt; Stools</g:product_type>
+      <g:shipping_weight>3.5 kg</g:shipping_weight>
+      <g:shipping>
+        <g:country>CA</g:country>
+        <g:price>18.00 CAD</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>WS-1006</g:id>
+      <g:title>Porte-manteau en bouleau, 5 crochets</g:title>
+      <g:description>Porte-manteau mural avec cinq crochets tournés en bouleau. Fabriqué sur mesure dans notre atelier.</g:description>
+      <g:link>https://shop.example.ca/fr/birch-coat-rack</g:link>
+      <g:image_link>https://shop.example.ca/img/ws-1006.jpg</g:image_link>
+      <g:availability>out_of_stock</g:availability>
+      <g:price>89.00 CAD</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Cedar &amp; Pine Woodshop</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Home &gt; Entryway</g:product_type>
+      <g:shipping_weight>2 kg</g:shipping_weight>
+      <g:shipping>
+        <g:country>CA</g:country>
+        <g:price>15.00 CAD</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>WS-1007</g:id>
+      <g:title>Rouleau à pâtisserie en frêne</g:title>
+      <g:description>Rouleau à pâtisserie conique de style français en frêne, 45 cm. Sans poignées, sans jeu.</g:description>
+      <g:link>https://shop.example.ca/fr/ash-rolling-pin</g:link>
+      <g:image_link>https://shop.example.ca/img/ws-1007.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>24.00 CAD</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Cedar &amp; Pine Woodshop</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Kitchen &gt; Baking</g:product_type>
+      <g:shipping_weight>450 g</g:shipping_weight>
+      <g:shipping>
+        <g:country>CA</g:country>
+        <g:price>12.00 CAD</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>WS-1008</g:id>
+      <g:title>Tabouret en chêne restauré</g:title>
+      <g:description>Tabouret en chêne récupéré d'un atelier scolaire, poncé et refini. Quelques marques d'outils d'origine subsistent.</g:description>
+      <g:link>https://shop.example.ca/fr/restored-oak-stool</g:link>
+      <g:image_link>https://shop.example.ca/img/ws-1008.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>95.00 CAD</g:price>
+      <g:condition>refurbished</g:condition>
+      <g:brand>Cedar &amp; Pine Woodshop</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Home &gt; Stools</g:product_type>
+      <g:shipping_weight>4 kg</g:shipping_weight>
+      <g:shipping>
+        <g:country>CA</g:country>
+        <g:price>12.00 CAD</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>WS-1009</g:id>
+      <g:title>Ensemble de bols à salade en érable (2 pièces)</g:title>
+      <g:description>Deux bols tournés en érable, 25 cm et 30 cm, avec couverts assortis.</g:description>
+      <g:link>https://shop.example.ca/fr/maple-salad-bowl-set</g:link>
+      <g:image_link>https://shop.example.ca/img/ws-1009.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>58.00 CAD</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Cedar &amp; Pine Woodshop</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Kitchen &gt; Serveware</g:product_type>
+      <g:shipping_weight>2.5 kg</g:shipping_weight>
+      <g:shipping>
+        <g:country>CA</g:country>
+        <g:price>12.00 CAD</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>WS-1010</g:id>
+      <g:title>Support à téléphone en noyer</g:title>
+      <g:description>Support incliné en noyer noir pour téléphone ou petite tablette.</g:description>
+      <g:link>https://shop.example.ca/fr/walnut-phone-stand</g:link>
+      <g:image_link>https://shop.example.ca/img/ws-1010.jpg</g:image_link>
+      <g:availability>backorder</g:availability>
+      <g:price>22.00 CAD</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Cedar &amp; Pine Woodshop</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Office &gt; Desk Accessories</g:product_type>
+      <g:shipping_weight>200 g</g:shipping_weight>
+      <g:shipping>
+        <g:country>CA</g:country>
+        <g:price>8.50 CAD</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>WS-1011</g:id>
+      <g:title>Bac à fleurs en cèdre</g:title>
+      <g:description>Bac sur pattes de 90 x 30 x 30 cm avec fentes de drainage. Le cèdre non traité grisonne avec le temps.</g:description>
+      <g:link>https://shop.example.ca/fr/cedar-planter-box</g:link>
+      <g:image_link>https://shop.example.ca/img/ws-1011.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>46.00 CAD</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Cedar &amp; Pine Woodshop</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:shipping_weight>7 kg</g:shipping_weight>
+      <g:shipping>
+        <g:country>CA</g:country>
+        <g:price>25.00 CAD</g:price>
+      </g:shipping>
+      <g:shipping>
+        <g:country>US</g:country>
+        <g:price>45.00 USD</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>WS-1012</g:id>
+      <g:title>Ensemble de 6 sous-verres en chêne</g:title>
+      <g:description>Six sous-verres carrés en chêne blanc avec base en liège, rangés dans leur support.</g:description>
+      <g:link>https://shop.example.ca/fr/oak-coaster-set</g:link>
+      <g:image_link>https://shop.example.ca/img/ws-1012.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>28.00 CAD</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Cedar &amp; Pine Woodshop</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Kitchen &gt; Tableware</g:product_type>
+      <g:shipping_weight>600 g</g:shipping_weight>
+      <g:shipping>
+        <g:country>CA</g:country>
+        <g:price>6.50 CAD</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>WS-1016</g:id>
+      <g:title>Ensemble d'ustensiles en bois franc</g:title>
+      <g:description>Six ustensiles en bois francs variés avec crochet mural.</g:description>
+      <g:link>https://shop.example.ca/fr/utensil-set</g:link>
+      <g:image_link>https://shop.example.ca/img/ws-1016.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>52.00 CAD</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Cedar &amp; Pine Woodshop</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Kitchen &gt; Utensils</g:product_type>
+      <g:shipping>
+        <g:country>CA</g:country>
+        <g:price>12.00 CAD</g:price>
+      </g:shipping>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,360 @@
+{
+  "source": "woodshop_products.csv",
+  "include_invalid": false,
+  "summary": {
+    "en-CA": {
+      "products": 16,
+      "ok": 10,
+      "warning": 2,
+      "error": 4
+    },
+    "fr-CA": {
+      "products": 16,
+      "ok": 10,
+      "warning": 2,
+      "error": 4
+    }
+  },
+  "products": [
+    {
+      "row": 2,
+      "id": "WS-1001",
+      "title": "Maple Cutting Board, 40 cm",
+      "language": "en-CA",
+      "status": "ok",
+      "issues": []
+    },
+    {
+      "row": 3,
+      "id": "WS-1002",
+      "title": "Walnut Serving Tray",
+      "language": "en-CA",
+      "status": "ok",
+      "issues": []
+    },
+    {
+      "row": 4,
+      "id": "WS-1003",
+      "title": "Cedar Birdhouse",
+      "language": "en-CA",
+      "status": "ok",
+      "issues": []
+    },
+    {
+      "row": 5,
+      "id": "WS-1004",
+      "title": "Oak Spice Rack, Wall Mount",
+      "language": "en-CA",
+      "status": "ok",
+      "issues": []
+    },
+    {
+      "row": 6,
+      "id": "WS-1005",
+      "title": "Pine Step Stool",
+      "language": "en-CA",
+      "status": "ok",
+      "issues": []
+    },
+    {
+      "row": 7,
+      "id": "WS-1006",
+      "title": "Birch Coat Rack, 5 Hooks",
+      "language": "en-CA",
+      "status": "ok",
+      "issues": []
+    },
+    {
+      "row": 8,
+      "id": "WS-1007",
+      "title": "Ash Rolling Pin",
+      "language": "en-CA",
+      "status": "ok",
+      "issues": []
+    },
+    {
+      "row": 9,
+      "id": "WS-1008",
+      "title": "Restored Oak Stool",
+      "language": "en-CA",
+      "status": "ok",
+      "issues": []
+    },
+    {
+      "row": 10,
+      "id": "WS-1009",
+      "title": "Maple Salad Bowl Set (2 pieces)",
+      "language": "en-CA",
+      "status": "warning",
+      "issues": [
+        {
+          "severity": "warning",
+          "code": "weight-unit-assumed",
+          "field": "shipping_weight",
+          "message": "no unit in '2.5'; assuming kg"
+        }
+      ]
+    },
+    {
+      "row": 11,
+      "id": "WS-1010",
+      "title": "Walnut Phone Stand",
+      "language": "en-CA",
+      "status": "ok",
+      "issues": []
+    },
+    {
+      "row": 12,
+      "id": "WS-1011",
+      "title": "Cedar Planter Box",
+      "language": "en-CA",
+      "status": "warning",
+      "issues": [
+        {
+          "severity": "warning",
+          "code": "category-missing",
+          "field": "google_product_category",
+          "message": "no google_product_category or product_type; recommended for matching and reporting"
+        }
+      ]
+    },
+    {
+      "row": 13,
+      "id": "WS-1012",
+      "title": "Oak Coaster Set of 6",
+      "language": "en-CA",
+      "status": "ok",
+      "issues": []
+    },
+    {
+      "row": 14,
+      "id": "WS-1013",
+      "title": "Pine Bookends, Pair",
+      "language": "en-CA",
+      "status": "error",
+      "issues": [
+        {
+          "severity": "error",
+          "code": "gtin-invalid",
+          "field": "gtin",
+          "message": "gtin '2001000000015': check digit is 5, expected 2 for GTIN-13"
+        }
+      ]
+    },
+    {
+      "row": 15,
+      "id": "WS-1014",
+      "title": "Ash Cheese Board",
+      "language": "en-CA",
+      "status": "error",
+      "issues": [
+        {
+          "severity": "error",
+          "code": "image_link-url",
+          "field": "image_link",
+          "message": "image_link 'http://shop.example.ca/img/ws-1014.jpg' uses http://; https:// is required"
+        }
+      ]
+    },
+    {
+      "row": 16,
+      "id": "WS-1015",
+      "title": "Cherry Jewelry Box",
+      "language": "en-CA",
+      "status": "error",
+      "issues": [
+        {
+          "severity": "error",
+          "code": "price-missing",
+          "field": "price",
+          "message": "price is required"
+        }
+      ]
+    },
+    {
+      "row": 17,
+      "id": "WS-1016",
+      "title": "Handmade Solid Hardwood Kitchen Utensil Set with Maple, Walnut, Cherry and Oak Spoons, Spatulas, Turners and a Matching Wall Hook, Sanded and Oiled by Hand",
+      "language": "en-CA",
+      "status": "error",
+      "issues": [
+        {
+          "severity": "error",
+          "code": "title-too-long",
+          "field": "title",
+          "message": "title has 155 characters; the limit is 150"
+        }
+      ]
+    },
+    {
+      "row": 2,
+      "id": "WS-1001",
+      "title": "Planche à découper en érable, 40 cm",
+      "language": "fr-CA",
+      "status": "ok",
+      "issues": []
+    },
+    {
+      "row": 3,
+      "id": "WS-1002",
+      "title": "Plateau de service en noyer",
+      "language": "fr-CA",
+      "status": "ok",
+      "issues": []
+    },
+    {
+      "row": 4,
+      "id": "WS-1003",
+      "title": "Nichoir en cèdre",
+      "language": "fr-CA",
+      "status": "ok",
+      "issues": []
+    },
+    {
+      "row": 5,
+      "id": "WS-1004",
+      "title": "Range-épices mural en chêne",
+      "language": "fr-CA",
+      "status": "error",
+      "issues": [
+        {
+          "severity": "error",
+          "code": "description-missing",
+          "field": "description",
+          "message": "description is required"
+        }
+      ]
+    },
+    {
+      "row": 6,
+      "id": "WS-1005",
+      "title": "Escabeau en pin",
+      "language": "fr-CA",
+      "status": "ok",
+      "issues": []
+    },
+    {
+      "row": 7,
+      "id": "WS-1006",
+      "title": "Porte-manteau en bouleau, 5 crochets",
+      "language": "fr-CA",
+      "status": "ok",
+      "issues": []
+    },
+    {
+      "row": 8,
+      "id": "WS-1007",
+      "title": "Rouleau à pâtisserie en frêne",
+      "language": "fr-CA",
+      "status": "ok",
+      "issues": []
+    },
+    {
+      "row": 9,
+      "id": "WS-1008",
+      "title": "Tabouret en chêne restauré",
+      "language": "fr-CA",
+      "status": "ok",
+      "issues": []
+    },
+    {
+      "row": 10,
+      "id": "WS-1009",
+      "title": "Ensemble de bols à salade en érable (2 pièces)",
+      "language": "fr-CA",
+      "status": "warning",
+      "issues": [
+        {
+          "severity": "warning",
+          "code": "weight-unit-assumed",
+          "field": "shipping_weight",
+          "message": "no unit in '2.5'; assuming kg"
+        }
+      ]
+    },
+    {
+      "row": 11,
+      "id": "WS-1010",
+      "title": "Support à téléphone en noyer",
+      "language": "fr-CA",
+      "status": "ok",
+      "issues": []
+    },
+    {
+      "row": 12,
+      "id": "WS-1011",
+      "title": "Bac à fleurs en cèdre",
+      "language": "fr-CA",
+      "status": "warning",
+      "issues": [
+        {
+          "severity": "warning",
+          "code": "category-missing",
+          "field": "google_product_category",
+          "message": "no google_product_category or product_type; recommended for matching and reporting"
+        }
+      ]
+    },
+    {
+      "row": 13,
+      "id": "WS-1012",
+      "title": "Ensemble de 6 sous-verres en chêne",
+      "language": "fr-CA",
+      "status": "ok",
+      "issues": []
+    },
+    {
+      "row": 14,
+      "id": "WS-1013",
+      "title": "Serre-livres en pin, paire",
+      "language": "fr-CA",
+      "status": "error",
+      "issues": [
+        {
+          "severity": "error",
+          "code": "gtin-invalid",
+          "field": "gtin",
+          "message": "gtin '2001000000015': check digit is 5, expected 2 for GTIN-13"
+        }
+      ]
+    },
+    {
+      "row": 15,
+      "id": "WS-1014",
+      "title": "Planche à fromage en frêne",
+      "language": "fr-CA",
+      "status": "error",
+      "issues": [
+        {
+          "severity": "error",
+          "code": "image_link-url",
+          "field": "image_link",
+          "message": "image_link 'http://shop.example.ca/img/ws-1014.jpg' uses http://; https:// is required"
+        }
+      ]
+    },
+    {
+      "row": 16,
+      "id": "WS-1015",
+      "title": "Boîte à bijoux en merisier",
+      "language": "fr-CA",
+      "status": "error",
+      "issues": [
+        {
+          "severity": "error",
+          "code": "price-missing",
+          "field": "price",
+          "message": "price is required"
+        }
+      ]
+    },
+    {
+      "row": 17,
+      "id": "WS-1016",
+      "title": "Ensemble d'ustensiles en bois franc",
+      "language": "fr-CA",
+      "status": "ok",
+      "issues": []
+    }
+  ]
+}

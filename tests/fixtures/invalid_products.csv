@@ -1,0 +1,8 @@
+id,title,description,price,sale_price,currency,availability,condition,brand,gtin,mpn,identifier_exists,image_link,link
+OK-1,Fine item,A fine item.,10.00,,CAD,in_stock,new,Example Wood Co,,MPN-1,,https://shop.example.ca/i/1.jpg,https://shop.example.ca/p/1
+BAD-GTIN,Bad gtin,Text.,10.00,,CAD,in_stock,new,Example Wood Co,4006381333932,,,https://shop.example.ca/i/2.jpg,https://shop.example.ca/p/2
+HTTP-IMG,Http image,Text.,10.00,,CAD,in_stock,new,Example Wood Co,,MPN-3,,http://shop.example.ca/i/3.jpg,https://shop.example.ca/p/3
+NO-PRICE,No price,Text.,,,CAD,in_stock,new,Example Wood Co,,MPN-4,,https://shop.example.ca/i/4.jpg,https://shop.example.ca/p/4
+BAD-SALE,Sale too high,Text.,10.00,12.00,CAD,in_stock,new,Example Wood Co,,MPN-5,,https://shop.example.ca/i/5.jpg,https://shop.example.ca/p/5
+OK-1,Duplicate id,Text.,10.00,,CAD,in_stock,new,Example Wood Co,,MPN-6,,https://shop.example.ca/i/6.jpg,https://shop.example.ca/p/6
+NO-BRAND,No brand,Text.,10.00,,CAD,maybe,new,,,MPN-7,,https://shop.example.ca/i/7.jpg,https://shop.example.ca/p/7

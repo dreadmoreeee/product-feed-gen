@@ -1,0 +1,4 @@
+SKU,Product Name,Description,Price,Sale Price,Currency,Stock Status,Condition,Brand,GTIN,MPN,Image,Additional Images,URL,Weight,Category
+A-100,Oak Tray,Solid oak tray.,19.99 CAD,,CAD,In stock,New,Example Wood Co,4006381333931,,https://shop.example.ca/i/a-100.jpg,,https://shop.example.ca/p/a-100,1.5 kg,Kitchen > Trays
+A-101,Ash Spoon,Carved ash spoon.,$12.50,9.99,,sold out,Used,Example Wood Co,,SP-1,https://shop.example.ca/i/a-101.jpg,https://shop.example.ca/i/a-101-b.jpg|https://shop.example.ca/i/a-101-c.jpg,https://shop.example.ca/p/a-101,200 g,Kitchen > Utensils
+A-102,Birch Shelf,Wall shelf in birch.,45,,,preorder,,Example Wood Co,,BS-1,https://shop.example.ca/i/a-102.jpg,,https://shop.example.ca/p/a-102,,Home > Shelves

@@ -1,0 +1,33 @@
+product-feed-gen report for woodshop_products.csv
+
+[en-CA]
+row 10  WS-1009  Maple Salad Bowl Set (2 pieces)  -- 0 errors, 1 warning
+  WARNING  weight-unit-assumed      no unit in '2.5'; assuming kg
+row 12  WS-1011  Cedar Planter Box  -- 0 errors, 1 warning
+  WARNING  category-missing         no google_product_category or product_type; recommended for matching and reporting
+row 14  WS-1013  Pine Bookends, Pair  -- 1 error, 0 warnings
+  ERROR    gtin-invalid             gtin '2001000000015': check digit is 5, expected 2 for GTIN-13
+row 15  WS-1014  Ash Cheese Board  -- 1 error, 0 warnings
+  ERROR    image_link-url           image_link 'http://shop.example.ca/img/ws-1014.jpg' uses http://; https:// is required
+row 16  WS-1015  Cherry Jewelry Box  -- 1 error, 0 warnings
+  ERROR    price-missing            price is required
+row 17  WS-1016  Handmade Solid Hardwood Kitchen Utensil Set w...  -- 1 error, 0 warnings
+  ERROR    title-too-long           title has 155 characters; the limit is 150
+
+[fr-CA]
+row 5  WS-1004  Range-épices mural en chêne  -- 1 error, 0 warnings
+  ERROR    description-missing      description is required
+row 10  WS-1009  Ensemble de bols à salade en érable (2 pièces)  -- 0 errors, 1 warning
+  WARNING  weight-unit-assumed      no unit in '2.5'; assuming kg
+row 12  WS-1011  Bac à fleurs en cèdre  -- 0 errors, 1 warning
+  WARNING  category-missing         no google_product_category or product_type; recommended for matching and reporting
+row 14  WS-1013  Serre-livres en pin, paire  -- 1 error, 0 warnings
+  ERROR    gtin-invalid             gtin '2001000000015': check digit is 5, expected 2 for GTIN-13
+row 15  WS-1014  Planche à fromage en frêne  -- 1 error, 0 warnings
+  ERROR    image_link-url           image_link 'http://shop.example.ca/img/ws-1014.jpg' uses http://; https:// is required
+row 16  WS-1015  Boîte à bijoux en merisier  -- 1 error, 0 warnings
+  ERROR    price-missing            price is required
+
+en-CA: 16 products: 10 ok, 2 with warnings only, 4 with errors
+fr-CA: 16 products: 10 ok, 2 with warnings only, 4 with errors
+Products with errors are left out of the feeds.

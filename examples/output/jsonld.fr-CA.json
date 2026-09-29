@@ -1,0 +1,564 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Planche à découper en érable, 40 cm",
+    "description": "Planche en érable dur finie à la main, avec rigole. Scellée à l'huile minérale alimentaire et à la cire d'abeille.",
+    "sku": "WS-1001",
+    "image": [
+      "https://shop.example.ca/img/ws-1001.jpg",
+      "https://shop.example.ca/img/ws-1001-b.jpg",
+      "https://shop.example.ca/img/ws-1001-c.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "Cedar & Pine Woodshop"
+    },
+    "gtin13": "2001000000012",
+    "mpn": "CP-CB-40",
+    "category": "Home & Garden > Kitchen & Dining > Kitchen Tools & Utensils > Cutting Boards",
+    "weight": {
+      "@type": "QuantitativeValue",
+      "value": 1.8,
+      "unitCode": "KGM"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://shop.example.ca/fr/maple-cutting-board",
+      "priceCurrency": "CAD",
+      "price": "48.00",
+      "priceValidUntil": "2026-12-31",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition",
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": "12.00",
+          "currency": "CAD"
+        },
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "CA"
+        }
+      },
+      "hasMerchantReturnPolicy": {
+        "@type": "MerchantReturnPolicy",
+        "applicableCountry": "CA",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "merchantReturnDays": 30,
+        "returnFees": "https://schema.org/FreeReturn"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Plateau de service en noyer",
+    "description": "Plateau en noyer noir avec poignées fraisées. Chaque pièce est une seule planche massive; le grain est unique.",
+    "sku": "WS-1002",
+    "image": [
+      "https://shop.example.ca/img/ws-1002.jpg",
+      "https://shop.example.ca/img/ws-1002-b.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "Cedar & Pine Woodshop"
+    },
+    "category": "Kitchen > Serving",
+    "weight": {
+      "@type": "QuantitativeValue",
+      "value": 2.2,
+      "unitCode": "KGM"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://shop.example.ca/fr/walnut-serving-tray",
+      "priceCurrency": "CAD",
+      "price": "54.00",
+      "priceSpecification": [
+        {
+          "@type": "UnitPriceSpecification",
+          "priceType": "https://schema.org/ListPrice",
+          "price": "64.00",
+          "priceCurrency": "CAD"
+        }
+      ],
+      "priceValidUntil": "2026-10-15",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition",
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": "12.00",
+          "currency": "CAD"
+        },
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "CA"
+        }
+      },
+      "hasMerchantReturnPolicy": {
+        "@type": "MerchantReturnPolicy",
+        "applicableCountry": "CA",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "merchantReturnDays": 30,
+        "returnFees": "https://schema.org/FreeReturn"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Nichoir en cèdre",
+    "description": "Nichoir pour mésanges en cèdre résistant à la pourriture, toit articulé pour le nettoyage annuel.",
+    "sku": "WS-1003",
+    "image": "https://shop.example.ca/img/ws-1003.jpg",
+    "brand": {
+      "@type": "Brand",
+      "name": "Cedar & Pine Woodshop"
+    },
+    "gtin13": "2001000000029",
+    "mpn": "CP-BH-01",
+    "category": "Garden > Birdhouses",
+    "weight": {
+      "@type": "QuantitativeValue",
+      "value": 900.0,
+      "unitCode": "GRM"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://shop.example.ca/fr/cedar-birdhouse",
+      "priceCurrency": "CAD",
+      "price": "34.50",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition",
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": "12.00",
+          "currency": "CAD"
+        },
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "CA"
+        }
+      },
+      "hasMerchantReturnPolicy": {
+        "@type": "MerchantReturnPolicy",
+        "applicableCountry": "CA",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "merchantReturnDays": 30,
+        "returnFees": "https://schema.org/ReturnShippingFees"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Escabeau en pin",
+    "description": "Escabeau robuste à deux marches, conçu pour 150 kg. Fini au vernis à l'eau incolore.",
+    "sku": "WS-1005",
+    "image": "https://shop.example.ca/img/ws-1005.jpg",
+    "brand": {
+      "@type": "Brand",
+      "name": "Cedar & Pine Woodshop"
+    },
+    "category": "Home > Stools",
+    "weight": {
+      "@type": "QuantitativeValue",
+      "value": 3.5,
+      "unitCode": "KGM"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://shop.example.ca/fr/pine-step-stool",
+      "priceCurrency": "CAD",
+      "price": "79.00",
+      "availability": "https://schema.org/PreOrder",
+      "itemCondition": "https://schema.org/NewCondition",
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": "18.00",
+          "currency": "CAD"
+        },
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "CA"
+        }
+      },
+      "hasMerchantReturnPolicy": {
+        "@type": "MerchantReturnPolicy",
+        "applicableCountry": "CA",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "merchantReturnDays": 30,
+        "returnFees": "https://schema.org/FreeReturn"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Porte-manteau en bouleau, 5 crochets",
+    "description": "Porte-manteau mural avec cinq crochets tournés en bouleau. Fabriqué sur mesure dans notre atelier.",
+    "sku": "WS-1006",
+    "image": "https://shop.example.ca/img/ws-1006.jpg",
+    "brand": {
+      "@type": "Brand",
+      "name": "Cedar & Pine Woodshop"
+    },
+    "category": "Home > Entryway",
+    "weight": {
+      "@type": "QuantitativeValue",
+      "value": 2.0,
+      "unitCode": "KGM"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://shop.example.ca/fr/birch-coat-rack",
+      "priceCurrency": "CAD",
+      "price": "89.00",
+      "availability": "https://schema.org/OutOfStock",
+      "itemCondition": "https://schema.org/NewCondition",
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": "15.00",
+          "currency": "CAD"
+        },
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "CA"
+        }
+      },
+      "hasMerchantReturnPolicy": {
+        "@type": "MerchantReturnPolicy",
+        "applicableCountry": "CA",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "merchantReturnDays": 30,
+        "returnFees": "https://schema.org/FreeReturn"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Rouleau à pâtisserie en frêne",
+    "description": "Rouleau à pâtisserie conique de style français en frêne, 45 cm. Sans poignées, sans jeu.",
+    "sku": "WS-1007",
+    "image": "https://shop.example.ca/img/ws-1007.jpg",
+    "brand": {
+      "@type": "Brand",
+      "name": "Cedar & Pine Woodshop"
+    },
+    "category": "Kitchen > Baking",
+    "weight": {
+      "@type": "QuantitativeValue",
+      "value": 450.0,
+      "unitCode": "GRM"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://shop.example.ca/fr/ash-rolling-pin",
+      "priceCurrency": "CAD",
+      "price": "24.00",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition",
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": "12.00",
+          "currency": "CAD"
+        },
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "CA"
+        }
+      },
+      "hasMerchantReturnPolicy": {
+        "@type": "MerchantReturnPolicy",
+        "applicableCountry": "CA",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "merchantReturnDays": 30,
+        "returnFees": "https://schema.org/FreeReturn"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Tabouret en chêne restauré",
+    "description": "Tabouret en chêne récupéré d'un atelier scolaire, poncé et refini. Quelques marques d'outils d'origine subsistent.",
+    "sku": "WS-1008",
+    "image": "https://shop.example.ca/img/ws-1008.jpg",
+    "brand": {
+      "@type": "Brand",
+      "name": "Cedar & Pine Woodshop"
+    },
+    "category": "Home > Stools",
+    "weight": {
+      "@type": "QuantitativeValue",
+      "value": 4.0,
+      "unitCode": "KGM"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://shop.example.ca/fr/restored-oak-stool",
+      "priceCurrency": "CAD",
+      "price": "95.00",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/RefurbishedCondition",
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": "12.00",
+          "currency": "CAD"
+        },
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "CA"
+        }
+      },
+      "hasMerchantReturnPolicy": {
+        "@type": "MerchantReturnPolicy",
+        "applicableCountry": "CA",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "merchantReturnDays": 14,
+        "returnFees": "https://schema.org/RestockingFees"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Ensemble de bols à salade en érable (2 pièces)",
+    "description": "Deux bols tournés en érable, 25 cm et 30 cm, avec couverts assortis.",
+    "sku": "WS-1009",
+    "image": "https://shop.example.ca/img/ws-1009.jpg",
+    "brand": {
+      "@type": "Brand",
+      "name": "Cedar & Pine Woodshop"
+    },
+    "category": "Kitchen > Serveware",
+    "weight": {
+      "@type": "QuantitativeValue",
+      "value": 2.5,
+      "unitCode": "KGM"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://shop.example.ca/fr/maple-salad-bowl-set",
+      "priceCurrency": "CAD",
+      "price": "58.00",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition",
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": "12.00",
+          "currency": "CAD"
+        },
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "CA"
+        }
+      },
+      "hasMerchantReturnPolicy": {
+        "@type": "MerchantReturnPolicy",
+        "applicableCountry": "CA",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "merchantReturnDays": 30,
+        "returnFees": "https://schema.org/FreeReturn"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Support à téléphone en noyer",
+    "description": "Support incliné en noyer noir pour téléphone ou petite tablette.",
+    "sku": "WS-1010",
+    "image": "https://shop.example.ca/img/ws-1010.jpg",
+    "brand": {
+      "@type": "Brand",
+      "name": "Cedar & Pine Woodshop"
+    },
+    "category": "Office > Desk Accessories",
+    "weight": {
+      "@type": "QuantitativeValue",
+      "value": 200.0,
+      "unitCode": "GRM"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://shop.example.ca/fr/walnut-phone-stand",
+      "priceCurrency": "CAD",
+      "price": "22.00",
+      "availability": "https://schema.org/BackOrder",
+      "itemCondition": "https://schema.org/NewCondition",
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": "8.50",
+          "currency": "CAD"
+        },
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "CA"
+        }
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Bac à fleurs en cèdre",
+    "description": "Bac sur pattes de 90 x 30 x 30 cm avec fentes de drainage. Le cèdre non traité grisonne avec le temps.",
+    "sku": "WS-1011",
+    "image": "https://shop.example.ca/img/ws-1011.jpg",
+    "brand": {
+      "@type": "Brand",
+      "name": "Cedar & Pine Woodshop"
+    },
+    "weight": {
+      "@type": "QuantitativeValue",
+      "value": 7.0,
+      "unitCode": "KGM"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://shop.example.ca/fr/cedar-planter-box",
+      "priceCurrency": "CAD",
+      "price": "46.00",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition",
+      "shippingDetails": [
+        {
+          "@type": "OfferShippingDetails",
+          "shippingRate": {
+            "@type": "MonetaryAmount",
+            "value": "25.00",
+            "currency": "CAD"
+          },
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": "CA"
+          }
+        },
+        {
+          "@type": "OfferShippingDetails",
+          "shippingRate": {
+            "@type": "MonetaryAmount",
+            "value": "45.00",
+            "currency": "USD"
+          },
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "hasMerchantReturnPolicy": {
+        "@type": "MerchantReturnPolicy",
+        "applicableCountry": "CA",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "merchantReturnDays": 30,
+        "returnFees": "https://schema.org/FreeReturn"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Ensemble de 6 sous-verres en chêne",
+    "description": "Six sous-verres carrés en chêne blanc avec base en liège, rangés dans leur support.",
+    "sku": "WS-1012",
+    "image": "https://shop.example.ca/img/ws-1012.jpg",
+    "brand": {
+      "@type": "Brand",
+      "name": "Cedar & Pine Woodshop"
+    },
+    "category": "Kitchen > Tableware",
+    "weight": {
+      "@type": "QuantitativeValue",
+      "value": 600.0,
+      "unitCode": "GRM"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://shop.example.ca/fr/oak-coaster-set",
+      "priceCurrency": "CAD",
+      "price": "28.00",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition",
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": "6.50",
+          "currency": "CAD"
+        },
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "CA"
+        }
+      },
+      "hasMerchantReturnPolicy": {
+        "@type": "MerchantReturnPolicy",
+        "applicableCountry": "CA",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "merchantReturnDays": 30,
+        "returnFees": "https://schema.org/FreeReturn"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Ensemble d'ustensiles en bois franc",
+    "description": "Six ustensiles en bois francs variés avec crochet mural.",
+    "sku": "WS-1016",
+    "image": "https://shop.example.ca/img/ws-1016.jpg",
+    "brand": {
+      "@type": "Brand",
+      "name": "Cedar & Pine Woodshop"
+    },
+    "category": "Kitchen > Utensils",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://shop.example.ca/fr/utensil-set",
+      "priceCurrency": "CAD",
+      "price": "52.00",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition",
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": "12.00",
+          "currency": "CAD"
+        },
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "CA"
+        }
+      },
+      "hasMerchantReturnPolicy": {
+        "@type": "MerchantReturnPolicy",
+        "applicableCountry": "CA",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "merchantReturnDays": 30,
+        "returnFees": "https://schema.org/FreeReturn"
+      }
+    }
+  }
+]
